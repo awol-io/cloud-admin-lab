@@ -9,3 +9,6 @@ Cost saving
 Scalability
 Avaliablity
 
+Why use cloud computing?
+Cloud computing is the future because of importance for cost saving and performance.
+Many companies merges because it is so effective
